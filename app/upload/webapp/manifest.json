@@ -128,7 +128,7 @@
                   "actions": {
                     "upload": {
                       "press": "upload.extension.Upload.showUploadDialog",
-                      "text": "Import Books"
+                      "text": "Import Products"
                     }
                   }
                 }

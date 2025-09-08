@@ -1,6 +1,6 @@
 <core:FragmentDefinition xmlns:core="sap.ui.core" xmlns:u="sap.ui.unified"
                          xmlns="sap.m">
-    <Dialog title="Import Books" class="sapUiResponsiveContentPadding" beforeOpen=".onBeforeOpen"
+    <Dialog title="Import Products" class="sapUiResponsiveContentPadding" beforeOpen=".onBeforeOpen"
             afterClose=".onAfterClose">
         <content>
             <u:FileUploader
